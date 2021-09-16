@@ -30,6 +30,12 @@ public class PruebaTest {
         Assert.assertEquals(camion2.conducir(40), "El camion necesita reabastecimiento de combustible");
     }
 
+    @Test
+    public void Test04() {
+        Camion camion3 = new Camion(1,100,10);
+        Assert.assertEquals(camion3.recargar(4), "La cantidad de combustible del camion es: 4.8");
+    }
+
     @Test(invocationCount = 80, threadPoolSize = 80)
     public void TestDeStress() {
         Camion camion = new Camion(12,consumoCamion,capacidadVehiculo);
