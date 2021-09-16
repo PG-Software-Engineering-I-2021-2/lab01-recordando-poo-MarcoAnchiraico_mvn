@@ -16,9 +16,9 @@ public class Vehiculo {
     }
 
     String conducir(double distancia){
-<span class="nc" id="L19">        double necesita = distancia*this.consumo;</span>
-<span class="nc bnc" id="L20" title="All 2 branches missed.">        if(this.cantidad-necesita&lt;0){</span>
-<span class="nc" id="L21">            return (&quot;El vehiculo necesita reabastecimiento de combustible&quot;);</span>
+<span class="fc" id="L19">        double necesita = distancia*this.consumo;</span>
+<span class="pc bpc" id="L20" title="1 of 2 branches missed.">        if(this.cantidad-necesita&lt;0){</span>
+<span class="fc" id="L21">            return (&quot;El vehiculo necesita reabastecimiento de combustible&quot;);</span>
         } else {
 <span class="nc" id="L23">            this.cantidad -= necesita;</span>
 <span class="nc" id="L24">            return (&quot;Vehiculo viajo &quot; +(distancia)+&quot; km y aun tiene &quot; +String.format(&quot;%.2f&quot;,this.cantidad,2)+ &quot; de combustible&quot;);</span>

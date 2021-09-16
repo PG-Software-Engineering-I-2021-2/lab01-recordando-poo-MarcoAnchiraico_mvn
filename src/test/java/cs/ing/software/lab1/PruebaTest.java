@@ -17,4 +17,10 @@ public class PruebaTest {
         Vehiculo sapito = new Vehiculo(10, consumoAutomovil, capacidadVehiculo);
         Assert.assertEquals(sapito.conducir(12),"El vehiculo necesita reabastecimiento de combustible");
     }
+
+    @Test(invocationCount = 80, threadPoolSize = 80)
+    public void TestDeStress() {
+        Camion camion = new Camion(12,consumoCamion,capacidadVehiculo);
+        Assert.assertEquals(camion.recargar(100), "Camion no se puede reabastecer el tanque, esta lleno");
+    }
 }
