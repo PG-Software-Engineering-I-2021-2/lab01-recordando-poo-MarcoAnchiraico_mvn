@@ -13,5 +13,8 @@ public class PruebaTest {
 
         Camion volvo = new Camion(10, consumoAutomovil, capacidadVehiculo);
         Assert.assertEquals(volvo.conducir(4),"Camion viajo 4.0 km y aun tiene 6.40 de combustible");
+
+        Vehiculo sapito = new Vehiculo(10, consumoAutomovil, capacidadVehiculo);
+        Assert.assertEquals(sapito.conducir(12),"El vehiculo necesita reabastecimiento de combustible");
     }
 }

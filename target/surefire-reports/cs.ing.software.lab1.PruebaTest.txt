@@ -1,14 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cs.ing.software.lab1.PruebaTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.624 sec <<< FAILURE!
-Test01(cs.ing.software.lab1.PruebaTest)  Time elapsed: 0.023 sec  <<< FAILURE!
-java.lang.AssertionError: expected [Automovil no se puede reabastecer el tanque, esta lleno] but found [Camion viajo 4.0 km y aun tiene 6.40 de combustible]
-	at org.testng.Assert.fail(Assert.java:99)
-	at org.testng.Assert.failNotEquals(Assert.java:1037)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
-	at org.testng.Assert.assertEquals(Assert.java:122)
-	at org.testng.Assert.assertEquals(Assert.java:629)
-	at org.testng.Assert.assertEquals(Assert.java:639)
-	at cs.ing.software.lab1.PruebaTest.Test01(PruebaTest.java:15)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.413 sec

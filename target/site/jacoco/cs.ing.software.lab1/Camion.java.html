@@ -3,8 +3,8 @@
 public class Camion extends Vehiculo{
 
     Camion(double cantidad, double consumo, double capacidad){
-<span class="nc" id="L6">        super(cantidad, consumo, capacidad);</span>
-<span class="nc" id="L7">    }</span>
+<span class="fc" id="L6">        super(cantidad, consumo, capacidad);</span>
+<span class="fc" id="L7">    }</span>
 
     @Override
     String recargar(double litros){
@@ -20,12 +20,12 @@ public class Camion extends Vehiculo{
 
     @Override
     String conducir(double distancia){
-<span class="nc" id="L23">        double necesita = distancia*this.consumo;</span>
-<span class="nc bnc" id="L24" title="All 2 branches missed.">        if(this.cantidad-necesita&lt;0){</span>
+<span class="fc" id="L23">        double necesita = distancia*this.consumo;</span>
+<span class="pc bpc" id="L24" title="1 of 2 branches missed.">        if(this.cantidad-necesita&lt;0){</span>
 <span class="nc" id="L25">            return (&quot;El camion necesita reabastecimiento de combustible&quot;);</span>
         } else {
-<span class="nc" id="L27">            this.cantidad -= necesita;</span>
-<span class="nc" id="L28">            return (&quot;Camion viajo &quot; +(distancia)+&quot; km y aun tiene &quot; +String.format(&quot;%.2f&quot;,this.cantidad,2)+ &quot; de combustible&quot;);</span>
+<span class="fc" id="L27">            this.cantidad -= necesita;</span>
+<span class="fc" id="L28">            return (&quot;Camion viajo &quot; +(distancia)+&quot; km y aun tiene &quot; +String.format(&quot;%.2f&quot;,this.cantidad,2)+ &quot; de combustible&quot;);</span>
         }
     }
 }
