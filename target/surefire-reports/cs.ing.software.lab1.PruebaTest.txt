@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cs.ing.software.lab1.PruebaTest
 -------------------------------------------------------------------------------
-Tests run: 83, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.561 sec
+Tests run: 84, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.638 sec

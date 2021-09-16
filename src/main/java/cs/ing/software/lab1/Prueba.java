@@ -11,11 +11,17 @@ public class Prueba {
     static double capacidadVehiculo = 100;
 
     public static void main(String[] args) {
+        inicio();
+    }
+
+    public static void inicio() {
         double cantidad = 10;
         Automovil hyundai = new Automovil(cantidad, consumoAutomovil, capacidadVehiculo);
-        logger.info(hyundai.conducir(12));
+        String hyundaiConducir = hyundai.conducir(12);
+        logger.info(hyundaiConducir);
         Camion mitsubishi = new Camion(cantidad, consumoCamion, capacidadVehiculo);
-        logger.info(mitsubishi.conducir(4));
+        String mitsubishiConducir = mitsubishi.conducir(4);
+        logger.info(mitsubishiConducir);
     }
 
 }

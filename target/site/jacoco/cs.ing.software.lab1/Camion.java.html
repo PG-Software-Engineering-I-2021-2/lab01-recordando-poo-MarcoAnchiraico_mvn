@@ -10,11 +10,11 @@ public class Camion extends Vehiculo{
     String recargar(double litros){
 <span class="fc" id="L11">        double capacidadLibre = this.capacidad - this.cantidad;</span>
 
-<span class="pc bpc" id="L13" title="1 of 2 branches missed.">        if(litros&gt;capacidadLibre){</span>
+<span class="fc bfc" id="L13" title="All 2 branches covered.">        if(litros&gt;capacidadLibre){</span>
 <span class="fc" id="L14">            return &quot;Camion no se puede reabastecer el tanque, esta lleno&quot;;</span>
         } else {
-<span class="nc" id="L16">            this.cantidad+=(litros * 0.95);</span>
-<span class="nc" id="L17">            return &quot;La cantidad de combustible del camion es: &quot;+cantidad;</span>
+<span class="fc" id="L16">            this.cantidad+=(litros * 0.95);</span>
+<span class="fc" id="L17">            return &quot;La cantidad de combustible del camion es: &quot;+cantidad;</span>
         }
     }
 
