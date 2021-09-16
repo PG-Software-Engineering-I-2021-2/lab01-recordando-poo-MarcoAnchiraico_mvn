@@ -12,6 +12,7 @@ public class Vehiculo {
     }
 
     String recargar(double litros){
+        this.cantidad += litros;
         return "";
     }
 

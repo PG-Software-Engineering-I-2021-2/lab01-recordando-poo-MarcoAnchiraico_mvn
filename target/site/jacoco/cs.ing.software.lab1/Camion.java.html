@@ -25,7 +25,7 @@ public class Camion extends Vehiculo{
 <span class="fc" id="L25">            return (&quot;El camion necesita reabastecimiento de combustible&quot;);</span>
         } else {
 <span class="fc" id="L27">            this.cantidad -= necesita;</span>
-<span class="fc" id="L28">            return (&quot;Camion viajo &quot; +(distancia)+&quot; km y aun tiene &quot; +String.format(&quot;%.2f&quot;,this.cantidad,2)+ &quot; de combustible&quot;);</span>
+<span class="fc" id="L28">            return (&quot;Camion viajo &quot; +(distancia)+&quot; km y aun tiene &quot; +String.format(&quot;%.2f&quot;,this.cantidad)+ &quot; de combustible&quot;);</span>
         }
     }
 }

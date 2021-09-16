@@ -10,15 +10,15 @@ public class Prueba {
     static double consumoCamion = 1.6;
     static double capacidadVehiculo = 100;
 
-    public static void main(String[] args) {
-        inicio();
-    }
-
     public static void inicio() {
         double cantidad = 10;
         Automovil hyundai = new Automovil(cantidad, consumoAutomovil, capacidadVehiculo);
         String hyundaiConducir = hyundai.conducir(12);
         logger.info(hyundaiConducir);
+    }
+
+    public static void main(String[] args) {
+        Prueba.inicio();
     }
 
 }
