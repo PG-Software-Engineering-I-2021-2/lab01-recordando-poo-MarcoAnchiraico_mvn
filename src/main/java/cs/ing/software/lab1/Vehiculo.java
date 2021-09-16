@@ -21,7 +21,7 @@ public class Vehiculo {
             return ("El vehiculo necesita reabastecimiento de combustible");
         } else {
             this.cantidad -= necesita;
-            return ("Vehiculo viajo " +(distancia)+" km y aun tiene " +String.format("%.2f",this.cantidad,2)+ " de combustible");
+            return ("Vehiculo viajo " +(distancia)+" km y aun tiene " +String.format("%.2f",this.cantidad)+ " de combustible");
         }
     }
 }

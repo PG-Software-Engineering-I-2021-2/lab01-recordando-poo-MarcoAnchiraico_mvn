@@ -25,7 +25,7 @@ public class Camion extends Vehiculo{
             return ("El camion necesita reabastecimiento de combustible");
         } else {
             this.cantidad -= necesita;
-            return ("Camion viajo " +(distancia)+" km y aun tiene " +String.format("%.2f",this.cantidad,2)+ " de combustible");
+            return ("Camion viajo " +(distancia)+" km y aun tiene " +String.format("%.2f",this.cantidad)+ " de combustible");
         }
     }
 }
