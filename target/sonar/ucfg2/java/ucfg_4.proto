@@ -1,0 +1,51 @@
+
+9cs.ing.software.lab1.Camion#conducir(D)Ljava/lang/String;Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java ("2"1*»
+2Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (H"Ω
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (J64
+2El camion necesita reabastecimiento de combustible*Ø
+1Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (≈
+¬
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (0
+%0java.lang.String"__concat*
+Camion viajo *
+""⁄
+◊
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (C
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ km y aun tiene †
+ù
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.javaE (j
+%2java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%.2f*
+""*2ﬁ
+€
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (j
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.StringŸ
+÷
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (}
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+ de combustible"ü
+Ç
+x/home/marco/Archivos/IngSoftware/lab01-recordando-poo-MarcoAnchiraico_mvn/src/main/java/cs/ing/software/lab1/Camion.java (
+
+%4java.lang.String:
+""B
+cs.ing.software.lab1.Camion
