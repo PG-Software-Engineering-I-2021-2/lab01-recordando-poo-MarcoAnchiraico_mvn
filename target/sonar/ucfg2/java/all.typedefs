@@ -137,10 +137,11 @@ $regionMatches(ILjava/lang/String;II)6java.lang.String#regionMatches(ILjava/lan
 
 valueOf(J)-java.lang.String#valueOf(J)Ljava/lang/String;X
 !<init>(Ljava/lang/StringBuilder;)3java.lang.String#<init>(Ljava/lang/StringBuilder;)V`
-%regionMatches(ZILjava/lang/String;II)7java.lang.String#regionMatches(ZILjava/lang/String;II)Z·
+%regionMatches(ZILjava/lang/String;II)7java.lang.String#regionMatches(ZILjava/lang/String;II)Zê
 cs.ing.software.lab1.Pruebajava.lang.Object1
 <init>()%cs.ing.software.lab1.Prueba#<init>()VS
-main([Ljava/lang/String;)6cs.ing.software.lab1.Prueba#main([Ljava/lang/String;)VúV
+main([Ljava/lang/String;)6cs.ing.software.lab1.Prueba#main([Ljava/lang/String;)V1
+inicio()%cs.ing.software.lab1.Prueba#inicio()VúV
 java.util.logging.Loggerjava.lang.ObjectF
 isLevelInitialized().java.util.logging.Logger#isLevelInitialized()Zd
 #fine(Ljava/util/function/Supplier;)=java.util.logging.Logger#fine(Ljava/util/function/Supplier;)V”

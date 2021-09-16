@@ -11,12 +11,18 @@ import java.util.logging.Logger;
 <span class="fc" id="L11">    static double capacidadVehiculo = 100;</span>
 
     public static void main(String[] args) {
-<span class="nc" id="L14">        double cantidad = 10;</span>
-<span class="nc" id="L15">        Automovil hyundai = new Automovil(cantidad, consumoAutomovil, capacidadVehiculo);</span>
-<span class="nc" id="L16">        logger.info(hyundai.conducir(12));</span>
-<span class="nc" id="L17">        Camion mitsubishi = new Camion(cantidad, consumoCamion, capacidadVehiculo);</span>
-<span class="nc" id="L18">        logger.info(mitsubishi.conducir(4));</span>
-<span class="nc" id="L19">    }</span>
+<span class="nc" id="L14">        inicio();</span>
+<span class="nc" id="L15">    }</span>
+
+    public static void inicio() {
+<span class="nc" id="L18">        double cantidad = 10;</span>
+<span class="nc" id="L19">        Automovil hyundai = new Automovil(cantidad, consumoAutomovil, capacidadVehiculo);</span>
+<span class="nc" id="L20">        String hyundaiConducir = hyundai.conducir(12);</span>
+<span class="nc" id="L21">        logger.info(hyundaiConducir);</span>
+<span class="nc" id="L22">        Camion mitsubishi = new Camion(cantidad, consumoCamion, capacidadVehiculo);</span>
+<span class="nc" id="L23">        String mitsubishiConducir = mitsubishi.conducir(4);</span>
+<span class="nc" id="L24">        logger.info(mitsubishiConducir);</span>
+<span class="nc" id="L25">    }</span>
 
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
