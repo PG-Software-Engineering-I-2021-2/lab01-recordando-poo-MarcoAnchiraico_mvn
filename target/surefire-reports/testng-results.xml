@@ -1,353 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="86" passed="86" failed="0" skipped="0">
+<testng-results ignored="0" total="88" passed="88" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-16T03:18:05 PET" name="cs.ing.software.lab1.PruebaTest" finished-at="2021-09-16T03:18:05 PET" duration-ms="142">
+  <suite started-at="2021-09-16T03:24:01 PET" name="cs.ing.software.lab1.PruebaTest" finished-at="2021-09-16T03:24:01 PET" duration-ms="123">
     <groups>
     </groups>
-    <test started-at="2021-09-16T03:18:05 PET" name="Command line test" finished-at="2021-09-16T03:18:05 PET" duration-ms="142">
+    <test started-at="2021-09-16T03:24:01 PET" name="Command line test" finished-at="2021-09-16T03:24:01 PET" duration-ms="123">
       <class name="cs.ing.software.lab1.PruebaTest">
-        <test-method signature="Test01()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test01" finished-at="2021-09-16T03:18:05 PET" duration-ms="30" status="PASS">
+        <test-method signature="Test01()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test01" finished-at="2021-09-16T03:24:01 PET" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test01 -->
-        <test-method signature="Test02()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test02" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="Test02()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test02" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test02 -->
-        <test-method signature="Test03()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test03" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test03 -->
-        <test-method signature="Test04()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test04" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="Test04()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test04" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test04 -->
-        <test-method signature="Test05()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test05" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="Test03()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test03" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test05 -->
-        <test-method signature="Test06()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="Test06" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test06()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test06" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test06 -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="Test05()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test05" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
+        </test-method> <!-- Test05 -->
+        <test-method signature="Test08()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test08" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test08 -->
+        <test-method signature="Test07()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="Test07" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test07 -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="3" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="1" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->
-        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@15fdd1f2]" started-at="2021-09-16T03:18:05 PET" name="TestDeStress" finished-at="2021-09-16T03:18:05 PET" duration-ms="0" status="PASS">
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.PruebaTest@70242f38]" started-at="2021-09-16T03:24:01 PET" name="TestDeStress" finished-at="2021-09-16T03:24:01 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDeStress -->

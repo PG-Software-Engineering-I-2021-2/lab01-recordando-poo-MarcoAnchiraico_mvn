@@ -22,6 +22,9 @@ public class Prueba {
         Camion mitsubishi = new Camion(cantidad, consumoCamion, capacidadVehiculo);
         String mitsubishiConducir = mitsubishi.conducir(4);
         logger.info(mitsubishiConducir);
+        Vehiculo vehiculo1 = new Vehiculo(cantidad, consumoCamion, capacidadVehiculo);
+        String vehiculoRecargar = vehiculo1.recargar(4);
+        logger.info(vehiculoRecargar);
     }
 
 }
