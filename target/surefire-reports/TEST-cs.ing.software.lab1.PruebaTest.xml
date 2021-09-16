@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="84" failures="0" name="cs.ing.software.lab1.PruebaTest" time="0.05" errors="0" skipped="0">
+<testsuite tests="85" failures="0" name="cs.ing.software.lab1.PruebaTest" time="0.062" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.2.2"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -63,38 +63,25 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test01" time="0.031"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test01" time="0.029"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test02" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test03" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test04" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test04" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test05" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
@@ -103,16 +90,23 @@
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.004"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.004"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.003"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
@@ -128,6 +122,17 @@
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
@@ -135,16 +140,12 @@
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestDeStress" time="0"/>
 </testsuite>
